@@ -63,6 +63,14 @@ R// cuando se maneja los using tenemos una ventaja que estos hacen los cierres a
 - ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/456aeab0-6176-479f-b575-0d81ab2ba29a)
 
 3. Con los datos precargados podemos ingresar un vehiculo al parqueadero, en caso de que no exista el lo crea automatico en los vehiculos
-- 
+- ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/cfbe9331-5c74-4c71-ba1a-66c61ffb2134)
+- Cuando el carro es ingresado el automaticamente le asigna la ubicacion mas cercana libre y arroja la informacion de su ingreso
+-  ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/de6d629b-1aa8-4f56-916b-92b9ce9c299f)
+- El segundo vehiculo al ingresar el asigna automaticamente la siguiente ubicacion
+- ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/1699e6e5-5980-4be0-992f-5dc3a379e444)
+- Cuando vuelvan a ingresar la placa el valida si esta parqueado o esta ingresando y hace su respectivo porceso y liquidación
+- ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/11047db4-4dba-4313-bb2b-db03784e7141)
+- ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/06034490-aaed-49e3-bdaa-6a6da791bd99)
+
  
  
