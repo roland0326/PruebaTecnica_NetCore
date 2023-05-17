@@ -68,9 +68,16 @@ R// cuando se maneja los using tenemos una ventaja que estos hacen los cierres a
 -  ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/de6d629b-1aa8-4f56-916b-92b9ce9c299f)
 - El segundo vehiculo al ingresar el asigna automaticamente la siguiente ubicacion
 - ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/1699e6e5-5980-4be0-992f-5dc3a379e444)
-- Cuando vuelvan a ingresar la placa el valida si esta parqueado o esta ingresando y hace su respectivo porceso y liquidación
+- Cuando vuelvan a ingresar la placa el valida si esta parqueado o esta ingresando y hace su respectivo proceso y liquidación
 - ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/11047db4-4dba-4313-bb2b-db03784e7141)
 - ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/06034490-aaed-49e3-bdaa-6a6da791bd99)
+- El otro proceso es cuando el vehiculo no cuenta con factura de compra
+- ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/f3944598-fdd5-4781-8038-6b327ed36405)
+4.Generamos el informe por rango de fechas
+-![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/ec7bf6d7-f1ba-4045-a72f-f78a25f8f3fa)
+-![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/eb83e572-d4c8-40e4-9028-ffdbbd5a57f6)
+
+# Muchas gracias 
 
  
  
