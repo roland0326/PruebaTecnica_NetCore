@@ -37,8 +37,7 @@ R// cuando se maneja los using tenemos una ventaja que estos hacen los cierres a
  # 2. Componente práctico backend
  ## Descripción proceso
  * 1.Descargar la informacion del repositorio
- * 2.En la siguiente ruta vamos a ejecutar el script de creacion de la base de datos con algunos datos de inicialización
- 
+ * 2.En la siguiente ruta vamos a ejecutar el script de creacion de la base de datos con algunos datos de inicialización 
  - ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/a624a850-bcae-4e06-b5ca-67fe54a08f47)
  - ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/8fc81a88-a14d-439e-95a0-0de5d78e7be8)
 
