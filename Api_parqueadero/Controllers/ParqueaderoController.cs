@@ -37,6 +37,29 @@ namespace Api_parqueadero.Controllers
             }
         }
 
-        
+        [HttpPost]
+        [Route("ReporteRangoFechas")]
+        public async Task<ActionResult<List<ReporteParqueadero>>> ReporteRango([FromBody] ReporteRangoFechas Obj)
+        {
+            var function = new DParqueadero();
+            try
+            {
+               
+
+
+                ReporteRangoFechas Rang = new ReporteRangoFechas();
+                Rang.Fecini = Obj.Fecini;
+                Rang.Fecfin = Obj.Fecfin;
+                var lista = await function.ReporteFechas(Rang);
+
+                return StatusCode(StatusCodes.Status200OK, new { message = "Datos almacenados correctamente", lista });
+            }
+            catch (Exception e)
+            {
+                return StatusCode(StatusCodes.Status200OK, new { message = e.Message });
+            }
+        }
+
+
     }//fin class
 }
