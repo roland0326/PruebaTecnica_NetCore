@@ -14,7 +14,7 @@ namespace Api_parqueadero.Controllers
 
         [HttpPost]
         [Route("EntradaSalidaVehiculo")]
-        public async Task<ActionResult> In_Out([FromBody] ProcesoVehiculo Obj) {
+        public async Task<ActionResult<List<ReporteParqueadero>>> In_Out([FromBody] ProcesoVehiculo Obj) {
             var function = new DParqueadero();
             try
             {
@@ -27,9 +27,9 @@ namespace Api_parqueadero.Controllers
                 Opro.Mar_id= Obj.Mar_id;
                 Opro.IdSucursal= Obj.IdSucursal;
                 Opro.Factura= Obj.Factura;
-                await function.ProcesoPq(Opro);
+               var lista= await function.ProcesoPq(Opro);
 
-                return StatusCode(StatusCodes.Status200OK, new { message = "Datos almacenados correctamente" });
+                return StatusCode(StatusCodes.Status200OK, new { message = "Datos almacenados correctamente",lista });
             }
             catch (Exception e)
             {
