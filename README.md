@@ -56,8 +56,13 @@ R// cuando se maneja los using tenemos una ventaja que estos hacen los cierres a
 # Funcionalidad
 1.Registramos la sucursal
 - 1.1 Este aplicativo fue creado para el manejo de varias sedes
--![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/cb8d79fa-17b1-4268-8660-09d2cfdcb806)
+- ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/cb8d79fa-17b1-4268-8660-09d2cfdcb806)
+2. Cargamos la distribucion del parqueadero por sucursal en este caso voy a cargar 5 ubicaciones
+- ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/821e246b-74dd-4a97-afac-dda6a57a1bd7)
+- Creamos de uno en uno hasta llegar  a 5 ubicaciones almacenadas
+- ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/456aeab0-6176-479f-b575-0d81ab2ba29a)
 
-
+3. Con los datos precargados podemos ingresar un vehiculo al parqueadero, en caso de que no exista el lo crea automatico en los vehiculos
+- 
  
  
