@@ -46,6 +46,17 @@ R// cuando se maneja los using tenemos una ventaja que estos hacen los cierres a
 # Codigo Fuente
 ## Cargamos la solucion y editamos los datos de conexion a sql
 ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/420890c0-126c-4d36-adcf-a95a5f8ef37b)
+## Iniciamos la api desde la solucion
+![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/ac2a9a69-cca6-4c76-9b3f-4ad01603ffa0)
+## Documentacion api
+-![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/68ec91e8-d6f8-45aa-a486-88d6e5c4da07)
+-![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/d8db9f2d-78c6-4beb-9884-601bac7d0df7)
+-![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/49deaa6a-3b07-4cbd-a496-f74317b4d785)
+-![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/c70790d5-6bcd-49c9-94c2-ad2d65daff19)
+# Funcionalidad
+1.Registramos la sucursal
+- 1.1 Este aplicativo fue creado para el manejo de varias sedes
+-![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/cb8d79fa-17b1-4268-8660-09d2cfdcb806)
 
 
  
