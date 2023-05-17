@@ -40,6 +40,12 @@ R// cuando se maneja los using tenemos una ventaja que estos hacen los cierres a
  * 2.En la siguiente ruta vamos a ejecutar el script de creacion de la base de datos con algunos datos de inicialización 
  - ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/a624a850-bcae-4e06-b5ca-67fe54a08f47)
  - ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/8fc81a88-a14d-439e-95a0-0de5d78e7be8)
+ - ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/1f422fcc-16a6-4bf6-8ed5-1125522d9324)
+ ### Estructura de la base de datos
+ ![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/8a01aa67-b404-44cd-a60b-a2ef852da59b)
+# Codigo Fuente
+## Cargamos la solucion y editamos los datos de conexion a sql
+![image](https://github.com/roland0326/PruebaTecnica_NetCore/assets/69539490/420890c0-126c-4d36-adcf-a95a5f8ef37b)
 
 
  
